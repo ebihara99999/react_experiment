@@ -16,5 +16,9 @@
     "eslint": "^3.19.0",
     "eslint-config-google": "^0.7.1",
     "webpack": "^2.5.1"
+  },
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
   }
 }
